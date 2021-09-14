@@ -100,11 +100,11 @@
 	      <url>http://23.22.177.145:8081/repository/boa-release/</url>
 	    </repository>
 	    
-	    <snapshotRepository>
+	 <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
 		    <url>http://23.22.177.145:8081/repository/boa-snapshot/</url>
-		  </snapshotRepository>
+		  </snapshotRepository>   
 		
 	</distributionManagement>
 	
